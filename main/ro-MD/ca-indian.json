@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ro",
         "territory": "MD"
@@ -17,15 +17,15 @@
                 "abbreviated": {
                   "1": "Chaitra",
                   "2": "Vaisakha",
-                  "3": "Jyaistha",
-                  "4": "Asadha",
-                  "5": "Sravana",
-                  "6": "Bhadra",
-                  "7": "Asvina",
-                  "8": "Kartika",
-                  "9": "Agrahayana",
-                  "10": "Pausa",
-                  "11": "Magha",
+                  "3": "Jyeshta",
+                  "4": "Aashaadha",
+                  "5": "Shraavana",
+                  "6": "Bhadrapada",
+                  "7": "Ashwin",
+                  "8": "Kartik",
+                  "9": "Margashirsha",
+                  "10": "Pausha",
+                  "11": "Magh",
                   "12": "Phalguna"
                 },
                 "narrow": {
@@ -45,15 +45,15 @@
                 "wide": {
                   "1": "Chaitra",
                   "2": "Vaisakha",
-                  "3": "Jyaistha",
-                  "4": "Asadha",
-                  "5": "Sravana",
-                  "6": "Bhadra",
-                  "7": "Asvina",
-                  "8": "Kartika",
-                  "9": "Agrahayana",
-                  "10": "Pausa",
-                  "11": "Magha",
+                  "3": "Jyeshta",
+                  "4": "Aashaadha",
+                  "5": "Shraavana",
+                  "6": "Bhadrapada",
+                  "7": "Ashwin",
+                  "8": "Kartik",
+                  "9": "Margashirsha",
+                  "10": "Pausha",
+                  "11": "Magh",
                   "12": "Phalguna"
                 }
               },
@@ -61,15 +61,15 @@
                 "abbreviated": {
                   "1": "Chaitra",
                   "2": "Vaisakha",
-                  "3": "Jyaistha",
-                  "4": "Asadha",
-                  "5": "Sravana",
-                  "6": "Bhadra",
-                  "7": "Asvina",
-                  "8": "Kartika",
-                  "9": "Agrahayana",
-                  "10": "Pausa",
-                  "11": "Magha",
+                  "3": "Jyeshta",
+                  "4": "Aashaadha",
+                  "5": "Shraavana",
+                  "6": "Bhadrapada",
+                  "7": "Ashwin",
+                  "8": "Kartik",
+                  "9": "Margashirsha",
+                  "10": "Pausha",
+                  "11": "Magh",
                   "12": "Phalguna"
                 },
                 "narrow": {
@@ -89,15 +89,15 @@
                 "wide": {
                   "1": "Chaitra",
                   "2": "Vaisakha",
-                  "3": "Jyaistha",
-                  "4": "Asadha",
-                  "5": "Sravana",
-                  "6": "Bhadra",
-                  "7": "Asvina",
-                  "8": "Kartika",
-                  "9": "Agrahayana",
-                  "10": "Pausa",
-                  "11": "Magha",
+                  "3": "Jyeshta",
+                  "4": "Aashaadha",
+                  "5": "Shraavana",
+                  "6": "Bhadrapada",
+                  "7": "Ashwin",
+                  "8": "Kartik",
+                  "9": "Margashirsha",
+                  "10": "Pausha",
+                  "11": "Magh",
                   "12": "Phalguna"
                 }
               }
@@ -317,8 +317,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E d",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",
